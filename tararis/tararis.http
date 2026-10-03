@@ -1,0 +1,6 @@
+@tararis_HostAddress = http://localhost:5253
+
+GET {{tararis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
